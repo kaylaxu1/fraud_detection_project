@@ -16,5 +16,5 @@ We then update a local variable (if the new weight is greater) to keep track
 of the best running weight, sign, dividing value, and dimension so far.
 We then updated the global best parameters at the end to construct the optimal
 weak learner.
-acy)
+
 
